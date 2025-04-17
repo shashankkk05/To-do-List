@@ -23,4 +23,4 @@ CSS: Styling the layout and UI.
 
 JavaScript: Functionality for adding tasks dynamically.
 
-Netlify: Hosting the web application
+Netlify: Hosting the web application.
